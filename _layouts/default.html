@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">主页</a></li>
+	        	<li><a href="/about">关于</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		{{ content }}
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="xxx">电邮</a></li>
+        		<li><a href="yyy">网站</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
