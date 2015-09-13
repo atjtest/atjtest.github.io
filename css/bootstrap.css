@@ -408,7 +408,7 @@ hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 1px solid none;
+    border-top: 1px solid #eee;
 }
 
 .sr-only {
@@ -679,7 +679,7 @@ a.bg-danger:hover {
 .page-header {
     padding-bottom: 9px;
     margin: 40px 0 20px;
-    border-bottom: 1px solid none;
+    border-bottom: 1px solid #eee;
 }
 
 ul,
@@ -761,7 +761,7 @@ blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
     font-size: 17.5px;
-    border-left: 5px solid none;
+    border-left: 5px solid #eee;
 }
 
     blockquote p:last-child,
@@ -790,7 +790,7 @@ blockquote {
         padding-right: 15px;
         padding-left: 0;
         text-align: right;
-        border-right: 5px solid none;
+        border-right: 5px solid #eee;
         border-left: 0;
     }
 
@@ -2131,7 +2131,7 @@ output {
     .form-control[readonly],
     fieldset[disabled] .form-control {
         cursor: not-allowed;
-        background-color: none;
+        background-color: #eee;
         opacity: 1;
     }
 
@@ -4158,7 +4158,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     line-height: 1;
     color: #555;
     text-align: center;
-    background-color: none;
+    background-color: #eee;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
@@ -4260,7 +4260,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
             .nav > li > a:hover,
             .nav > li > a:focus {
                 text-decoration: none;
-                background-color: none;
+                background-color: #eee;
             }
 
         .nav > li.disabled > a {
@@ -4278,7 +4278,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     .nav .open > a,
     .nav .open > a:hover,
     .nav .open > a:focus {
-        background-color: none;
+        background-color: #eee;
         border-color: #1B242F;
     }
 
@@ -4310,7 +4310,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
         }
 
             .nav-tabs > li > a:hover {
-                border-color: none none #ddd;
+                border-color: #eee #eee #ddd;
             }
 
         .nav-tabs > li.active > a,
@@ -5106,7 +5106,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
         .pagination > li > a:focus,
         .pagination > li > span:focus {
             color: #E74C3C;
-            background-color: none;
+            background-color: #eee;
             border-color: #ddd;
         }
 
@@ -5194,7 +5194,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
             .pager li > a:hover,
             .pager li > a:focus {
                 text-decoration: none;
-                background-color: none;
+                background-color: #eee;
             }
 
     .pager .next > a,
@@ -5349,7 +5349,7 @@ a.list-group-item.active > .badge,
     padding: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: none;
+    background-color: #eee;
 }
 
     .jumbotron h1,
@@ -6766,7 +6766,7 @@ button.close {
         width: 12px;
         height: 12px;
         margin: 0;
-        background-color: url(../images/pagenate.png) no-repeat 0px 0px;
+        background-color: #fff;
     }
 
 .carousel-caption {
