@@ -8,3 +8,4 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://atjshop.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
+exclude: [obj/, vs-html.v12.suo, vs-html.sln, atjshop.csproj.user, atjshop.csproj, vs-html.suo]
