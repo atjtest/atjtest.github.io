@@ -58,6 +58,10 @@
     <Content Include=".gitignore" />
     <Content Include="about.html" />
     <Content Include="contact.html" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\lightbox.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\style.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="images\b1.jpg" />
     <Content Include="images\b2.jpg" />
@@ -102,6 +106,7 @@
     <Content Include="js\lightbox-plus-jquery.min.js" />
     <Content Include="js\move-top.js" />
     <Content Include="js\owl.carousel.js" />
+    <Content Include="health-product.html" />
     <Content Include="Models.html" />
     <Content Include="services.html" />
     <Content Include="typo.html" />
@@ -130,7 +135,6 @@
     <Content Include="_sass\_syntax-highlighting.scss" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="css\" />
     <Folder Include="Properties\" />
   </ItemGroup>
   <PropertyGroup>

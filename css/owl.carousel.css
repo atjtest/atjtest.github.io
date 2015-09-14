@@ -92,7 +92,7 @@
 /* preloading images */
 .owl-item.loading {
     min-height: 150px;
-    background: url(AjaxLoader.gif) no-repeat center center;
+    background: url(/images/AjaxLoader.gif) no-repeat center center;
 }
 /* 
  * 	Core Owl Carousel CSS File
@@ -155,7 +155,7 @@
 
 /* mouse grab icon */
 .grabbing {
-    cursor: url(grabbing.png) 8 8, move;
+    cursor: url(/images/grabbing.png) 8 8, move;
 }
 
 /* fix */
