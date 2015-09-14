@@ -9,5 +9,5 @@ url: "http://atjshop.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 encoding: utf-8
-exclude: [obj/, vs-html.v12.suo, vs-html.sln, atjshop.csproj.user, atjshop.csproj, vs-html.suo]
+exclude: [obj/, vs-html.v12.suo, vs-html.sln, atjshop.csproj.user, atjshop.csproj, vs-html.suo, npp.workspace]
 
