@@ -68,6 +68,11 @@
             <File name="_includes\footer.html" />
             <File name="_includes\head.html" />
             <File name="_includes\header.html" />
+            <Folder name="copy">
+                <File name="_includes\footer - Copy.html" />
+                <File name="_includes\head - Copy.html" />
+                <File name="_includes\header - Copy.html" />
+            </Folder>
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\default.html" />
@@ -76,6 +81,7 @@
         </Folder>
         <Folder name="_posts">
             <File name="_posts\2015-09-11-welcome-to-jekyll.markdown" />
+            <File name="_posts\2015-09-16-lancome-gift.markdown" />
         </Folder>
         <Folder name="_sass">
             <File name="_sass\_base.scss" />
@@ -178,6 +184,12 @@
         <File name="typo.html" />
         <File name="_config.yml" />
         <File name="health-product.html" />
+        <Folder name="copy">
+            <File name="index - Copy.html" />
+        </Folder>
+        <Folder name="html">
+            <File name="html\2015-09-17-nike-shoes-adult-male.html" />
+        </Folder>
     </Project>
     <Project name="jekyllsite">
         <Folder name="css">
