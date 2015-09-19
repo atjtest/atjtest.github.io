@@ -4,12 +4,14 @@
     <meta name="description" content="{{ site.description }}">
     <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
     <link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="/css/lightbox.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
     <!-- <script src="/js/jquery-1.8.3.min.js"></script> -->
     <script src="/js/jquery-2.1.4.min.js"></script>
+	<script src="/js/lightbox.min.js"> </script>
     <!---- start-smoth-scrolling---->
     <script type="text/javascript" src="/js/move-top.js"></script>
     <script type="text/javascript" src="/js/easing.js"></script>
@@ -22,6 +24,7 @@
         });
     </script>
     <!---End-smoth-scrolling---->
+	<!--google analytics-->
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -31,4 +34,5 @@
 	  ga('create', 'UA-67808216-1', 'auto');
 	  ga('send', 'pageview');
 	</script>
+	<!--google anaylytics-->
 </head>

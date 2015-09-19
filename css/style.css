@@ -297,6 +297,15 @@ span.glyphicon.glyphicon-glass {
         font-weight: 600;
     }
 
+    .news h4 {
+        font-size: 1.5em;
+        text-transform: capitalize;
+        font-family: 'Buda-Light';
+        color: #C07C3F;
+        font-weight: 600;
+		text-align: left;
+    }
+
 .new-grid {
     padding: 0;
 }
@@ -1105,7 +1114,7 @@ address {
     }
 
     .model-grids {
-        float: left;
+        float: center;
         width: 30.3%;
     }
 

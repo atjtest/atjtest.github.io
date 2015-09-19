@@ -6,63 +6,17 @@
             <File name="css\owl.carousel.css" />
             <File name="css\style.css" />
         </Folder>
-        <Folder name="fonts">
-            <File name="fonts\Buda-Light.ttf" />
-            <File name="fonts\glyphicons-halflings-regular.eot" />
-            <File name="fonts\glyphicons-halflings-regular.svg" />
-            <File name="fonts\glyphicons-halflings-regular.ttf" />
-            <File name="fonts\glyphicons-halflings-regular.woff" />
-            <File name="fonts\glyphicons-halflings-regular.woff2" />
-            <File name="fonts\Norican-Regular.ttf" />
-            <File name="fonts\OpenSans-Regular.ttf" />
-            <File name="fonts\Playball-Regular.ttf" />
-        </Folder>
-        <Folder name="images">
-            <File name="images\b1.jpg" />
-            <File name="images\b2.jpg" />
-            <File name="images\b3.jpg" />
-            <File name="images\b4.jpg" />
-            <File name="images\b5.jpg" />
-            <File name="images\b6.jpg" />
-            <File name="images\b7.jpg" />
-            <File name="images\close.png" />
-            <File name="images\d1.jpg" />
-            <File name="images\d2.jpg" />
-            <File name="images\d3.jpg" />
-            <File name="images\d4.jpg" />
-            <File name="images\list-arrow.png" />
-            <File name="images\move-top.png" />
-            <File name="images\n1.jpg" />
-            <File name="images\n2.jpg" />
-            <File name="images\n3.jpg" />
-            <File name="images\nav.png" />
-            <File name="images\next.png" />
-            <File name="images\p1.jpg" />
-            <File name="images\p10.jpg" />
-            <File name="images\p11.jpg" />
-            <File name="images\p12.jpg" />
-            <File name="images\p13.jpg" />
-            <File name="images\p14.jpg" />
-            <File name="images\p2.jpg" />
-            <File name="images\p3.jpg" />
-            <File name="images\p4.jpg" />
-            <File name="images\p5.jpg" />
-            <File name="images\p6.jpg" />
-            <File name="images\p7.jpg" />
-            <File name="images\p8.jpg" />
-            <File name="images\p9.jpg" />
-            <File name="images\prev.png" />
-            <File name="images\t1.jpg" />
-            <File name="images\t2.jpg" />
-            <File name="images\t3.jpg" />
-            <File name="images\t4.jpg" />
+        <Folder name="html">
+            <File name="html\2015-09-17-nike-shoes-adult-male.html" />
+            <File name="html\2015-09-17-nike-shoes.html" />
+            <File name="html\mia2.html" />
         </Folder>
         <Folder name="js">
             <File name="js\easing.js" />
-            <File name="js\jquery-1.8.3.min.js" />
-            <File name="js\lightbox-plus-jquery.min.js" />
             <File name="js\move-top.js" />
             <File name="js\owl.carousel.js" />
+            <File name="js\jquery-2.1.4.min.js" />
+            <File name="js\lightbox.min.js" />
         </Folder>
         <Folder name="_includes">
             <File name="_includes\footer.html" />
@@ -186,10 +140,6 @@
         <File name="health-product.html" />
         <Folder name="copy">
             <File name="index - Copy.html" />
-        </Folder>
-        <Folder name="html">
-            <File name="html\2015-09-17-nike-shoes-adult-male.html" />
-            <File name="html\2015-09-17-nike-shoes.html" />
         </Folder>
     </Project>
     <Project name="jekyllsite">
