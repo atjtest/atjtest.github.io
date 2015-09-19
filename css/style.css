@@ -121,7 +121,14 @@ span.menu {
         color: #994868;
         font-weight: 600;
     }
-
+    .welcome h4 {
+        font-size: 1.5em;
+        text-transform: capitalize;
+        font-family: 'Buda-Light';
+        color: #C07C3F;
+        font-weight: 600;
+    }
+		
 .welcome-grids {
     margin-top: 3em;
 }
