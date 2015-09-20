@@ -1,6 +1,10 @@
-﻿$imgsubdir='2015.09.17.nike.shoes.baby'
-$title='2016年9月耐克鞋'
-$title1='耐克鞋婴儿款'
+﻿# generate one html page to list all images in one folder
+# assume the file name is like xxxx.price.jpg or xxx-price.jpg (other image formats are fine too)
+# the price will be extracted and displayed under the image
+
+$imgsubdir='2015.09.17.nike.shoes.baby'
+$title='2016年9月耐克鞋' # html title
+$title1='耐克鞋婴儿款' 
 
 $basedir='d:\Data\gitrepos\atjshop.github.io\'
 $imgdir= $basedir +'images\' + $imgsubdir + '\'
