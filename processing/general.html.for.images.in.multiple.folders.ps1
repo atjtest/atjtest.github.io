@@ -8,8 +8,11 @@
 #   desc3
 # NOTE: readme.txt should be using unicode encoding if it contains CHINESE chars!! lines start with "#" will be ignored
 
-$imgsubdirs=@('mia2.1', 'mia2.2', 3, 4,5,6,7,8,9,10,11,12)
-$htmlfilename='mia22.html'
+# $imgsubdirs=@('mia2.1', 'mia2.2', 3, 4,5,6,7,8,9,10,11,12)
+# $htmlfilename='mia22.html'
+
+$imgsubdirs=@('waterpik-wp130-wp305')
+$htmlfilename='waterpik-wp130-wp305.html'
 
 $basedir='d:\Data\gitrepos\atjshop.github.io\'
 $outputfilename=$basedir+'html\'+$htmlfilename
