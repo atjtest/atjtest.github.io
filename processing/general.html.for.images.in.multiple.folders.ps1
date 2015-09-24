@@ -121,6 +121,7 @@ if($iDirs -gt 1){ $html = $indexhtml + $html }
 $stream = new-object 'System.IO.StreamWriter' -ArgumentList $outputfilename, $false
 $stream.writeline('---')
 $stream.writeline('layout: default')
+$stream.writeline('title: 豪华版2个水牙线，超值超实用，￥615')
 $stream.writeline('date:  ' + [System.DateTime]::Now.ToString())
 $stream.writeline('---')
 $stream.writeline($html)
