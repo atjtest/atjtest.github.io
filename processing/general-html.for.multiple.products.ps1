@@ -48,7 +48,8 @@ function generate-html-for-products($imgsubdirs, $htmlfilename, $htmltitle, $inc
 	    $i=0
 	    $productTitle=''
 	    $htmlImgDivs=''
-	    $htmlImgDiv='<div class="col-md-4 view"><a href="{0}" data-lightbox=s><img src="{0}" class="img-responsive"/></a></div>'
+#	    $htmlImgDiv='<div class="col-md-4 view"><a href="{0}" data-lightbox=s><img src="{0}" class="img-responsive"/></a></div>'
+	    $htmlImgDiv='<div class="col-md-4"><a href="{0}" data-lightbox=s><img src="{0}" class="img-responsive"/></a></div>'
 	    $htmldesc='<div class="news"><div class="container">'
 
 	    foreach ($file in $files)

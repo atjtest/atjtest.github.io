@@ -285,7 +285,7 @@ span.glyphicon.glyphicon-glass {
 }
 
 .news {
-    padding: 4em 0;
+    padding: 1em 0;
     text-align: center;
 }
 
@@ -1006,7 +1006,7 @@ address {
     }
 
     .welcome, .designer, .specials-section, .about-section, .services-section, .service-list, .models, .typo, .contact, .news {
-        padding: 3em 0;
+        padding: 1em 0;
     }
 
     .welcome-grid {
@@ -1283,7 +1283,7 @@ address {
     }
 
     .welcome, .designer, .specials-section, .about-section, .services-section, .service-list, .models, .typo, .contact, .news {
-        padding: 2em 0;
+        padding: 0.5em 0;
     }
 
         .welcome h3, .designer h3, .news h3, .specials-section h3, .about-section h3, .why-choose h3, .ourteam h3, .services-section h3, .service-list h3, .models h3, h3.tittle, .contact h3 {
@@ -1436,7 +1436,7 @@ address {
     }
 
     .welcome, .designer, .specials-section, .about-section, .services-section, .service-list, .models, .typo, .contact, .news {
-        padding: 1em 0;
+        padding: 0.5em 0;
     }
 
     .welcome-grids, .designer-grids, .choose-grids, .new-grids, .team-grids, .contact-grids {
