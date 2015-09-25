@@ -8,7 +8,7 @@
 #   desc3
 # NOTE: readme.txt should be using unicode encoding if it contains CHINESE chars!! lines start with "#" will be ignored
 
-function generate-html-for-products($imgsubdirs, $htmlfilename, $htmltitle){
+function generate-html-for-products($imgsubdirs, $htmlfilename, $htmltitle, $includeheadindex=0){
 	# $imgsubdirs=@('waterpik-wp130-wp305')
 	# $htmlfilename='waterpik-wp130-wp305.html'
 	$htmltitle = (''+$htmltitle).trim()
@@ -114,7 +114,9 @@ function generate-html-for-products($imgsubdirs, $htmlfilename, $htmltitle){
 	# $indexhtml='<div class="welcome"><div class="container">' + $indexhtml + '</div></div>'
 
 	Write-Host $indexhtml
-	if($iDirs -gt 1){ $html = $indexhtml + $html }
+	Write-Host '$includeheadindex=' $includeheadindex
+
+	if( ($iDirs -gt 1) -and ($includeheadindex -eq 1) ){ $html = $indexhtml + $html }
 
 	#write html to file
 	$stream = new-object 'System.IO.StreamWriter' -ArgumentList $outputfilename, $false
