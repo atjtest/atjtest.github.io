@@ -28,6 +28,7 @@
                 <File name="_includes\head - Copy.html" />
                 <File name="_includes\header - Copy.html" />
             </Folder>
+            <File name="_includes\category.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\default.html" />
@@ -142,6 +143,7 @@
         <Folder name="copy">
             <File name="index - Copy.html" />
         </Folder>
+        <File name="category.txt" />
     </Project>
     <Project name="jekyllsite">
         <Folder name="css">
