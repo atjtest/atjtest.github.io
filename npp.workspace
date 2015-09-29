@@ -11,7 +11,6 @@
             <File name="html\2015-09-17-nike-shoes.html" />
             <File name="html\mia2.html" />
             <File name="html\2015-09-EL-SET.html" />
-            <File name="html\GNC-Series.html" />
         </Folder>
         <Folder name="js">
             <File name="js\easing.js" />
@@ -30,7 +29,6 @@
                 <File name="_includes\header - Copy.html" />
             </Folder>
             <File name="_includes\category.html" />
-            <File name="_includes\categorytop.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\default.html" />
@@ -145,6 +143,7 @@
         <Folder name="copy">
             <File name="index - Copy.html" />
         </Folder>
+        <File name="category.txt" />
     </Project>
     <Project name="jekyllsite">
         <Folder name="css">
@@ -187,8 +186,6 @@
             <File name=" - default\_site\Gemfile.lock" />
             <File name=" - default\_site\index.html" />
         </Folder>
-        <File name=" - default\.gitignore" />
-        <File name=" - default\about.md" />
         <File name=" - default\feed.xml" />
         <File name=" - default\Gemfile" />
         <File name=" - default\Gemfile.lock" />
