@@ -1532,10 +1532,25 @@ address {
         padding: 0;
     }
 
-        .ser-list ul li a {
-            font-size: 0.9em;
-            padding: 6px 20px;
-        }
+/*         .ser-list ul li {
+			list-style-position: outside;
+			margin-left: 1em;
+		}
+ */		
+			.ser-list ul li a {
+				font-size: 1.1em;
+				padding: 6px 20px;
+			}
+
+/* 			.ser-list ul li ul li{
+				list-style-position: outside;
+				margin-left: 1em;	
+			}
+ */			
+			.ser-list ul li ul li a {
+				font-size: 1.1em;
+				padding: 6px 20px;
+			}
 
     .view {
         width: 255px;
