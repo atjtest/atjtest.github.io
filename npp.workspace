@@ -11,6 +11,11 @@
             <File name="html\2015-09-17-nike-shoes.html" />
             <File name="html\mia2.html" />
             <File name="html\2015-09-EL-SET.html" />
+            <File name="html\index-mon-kids.html" />
+            <File name="html\index-cat-nutrition.html" />
+            <File name="html\index-cat-electronics.html" />
+            <File name="html\index-cat-cosmetic.html" />
+            <File name="html\index-cat-bag-clothing.html" />
         </Folder>
         <Folder name="js">
             <File name="js\easing.js" />
@@ -28,7 +33,12 @@
                 <File name="_includes\head - Copy.html" />
                 <File name="_includes\header - Copy.html" />
             </Folder>
-            <File name="_includes\category.html" />
+            <File name="_includes\category-mom-kids.html" />
+            <File name="_includes\category-bag-clothing.html" />
+            <File name="_includes\category-cosmetic.html" />
+            <File name="_includes\category-electronics.html" />
+            <File name="_includes\category-nutrition.html" />
+            <File name="_includes\categorytop.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\default.html" />
