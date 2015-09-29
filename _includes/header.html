@@ -5,10 +5,12 @@
             <div class="logo">
                 <a href="/index.html">风之城<span>美国代购</span></a>
             </div>
+			{% if page.url != "/index.html" %}
             <div class="top-menu">
                 <span class="menu"><img src="/images/nav.png" alt="" /> </span>
-				{% include category.html %}
+				{% include categorytop.html %}
             </div>
+			{% endif %}
             <!--script-nav-->
             <script>
                 $("span.menu").click(function () {
