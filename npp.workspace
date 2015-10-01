@@ -39,6 +39,7 @@
             <File name="_includes\category-electronics.html" />
             <File name="_includes\category-nutrition.html" />
             <File name="_includes\categorytop.html" />
+            <File name="_includes\carousel.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\default.html" />
