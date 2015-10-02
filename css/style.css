@@ -635,7 +635,12 @@ img.zoom-img {
         }
 
 	.ser-list ul li ul li {
+/* 		list-style-type: disc;
+ */		list-style-position: inside;
+		text-indent: -1em;
+		padding-left: 1em;
 		margin-left: 25px;
+		
 	}
 		
 /*-- services --*/
