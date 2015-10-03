@@ -1,0 +1,21 @@
+<!--desinger-->
+<div class="designer">
+	<div class="container">
+		<h3>热销产品</h3>
+		<div class="designer-grids">
+			{% for h in site.data.currenthot %}
+			<div class="col-md-3 designer-grid">
+				<a href="{{ h.link }}">
+					<img src="/images/currenthot/{{ h.url }}" class="img-responsive">
+	<!-- 				<div class="designer-info">
+						<h4>{{ h.name }}</h4>
+					</div>
+	 -->				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.</p> -->
+				</a>	
+			</div>
+			{% endfor %}
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<!--desinger-->
