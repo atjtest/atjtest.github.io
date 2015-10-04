@@ -155,6 +155,9 @@
             <File name="index - Copy.html" />
         </Folder>
         <File name="category.txt" />
+        <Folder name="_data">
+            <File name="_data\currenthot.csv" />
+        </Folder>
     </Project>
     <Project name="jekyllsite">
         <Folder name="css">
