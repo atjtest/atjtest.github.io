@@ -40,6 +40,7 @@
             <File name="_includes\category-nutrition.html" />
             <File name="_includes\categorytop.html" />
             <File name="_includes\carousel.html" />
+            <File name="_includes\currenthot.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\default.html" />

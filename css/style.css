@@ -247,6 +247,7 @@ span.glyphicon.glyphicon-glass {
 
 .designer-grid {
     position: relative;
+	margin: 0.3em;
 }
 
 .designer-info {
@@ -1056,6 +1057,7 @@ address {
     .designer-grid {
         float: left;
         width: 25%;
+		margin: 0.3em;
     }
 
     .designer-info {
@@ -1335,7 +1337,8 @@ address {
 
     .designer-grid {
         float: left;
-        width: 50%;
+        width: 47%;
+		margin: 0.3em;
     }
 
         .designer-grid:nth-child(3) {
@@ -1471,7 +1474,8 @@ address {
     }
 
     .designer-grid {
-        width: 100%;
+        width: 95%;
+		margin: 0.3em;
     }
 
     .designer-info {
