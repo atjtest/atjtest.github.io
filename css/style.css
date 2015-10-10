@@ -1123,7 +1123,7 @@ address {
 
     .ser-list {
         float: left;
-        width: 33.3%;
+        /* width: 33.3%; */
     }
 
     .specials1:nth-child(3) {
