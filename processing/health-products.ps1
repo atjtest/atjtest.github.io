@@ -1,5 +1,5 @@
 ﻿. "d:\Data\gitrepos\atjshop.github.io\processing\general-html.for.multiple.products.ps1"
 $imgsubdirs=@('NatureMade-Fishoil-200x2','schiff-melatonin-3mg','Trunature-grape-seed','Kirkland-Active-vitamin-pack', 'caltrate-600-d3','NatureMade-Flaxseed-Oil', 'Trunature-lutein','Trunature-Cranberry','NatureMade-CoQ10')
 $htmlfilename='nutrition-health.html'
-$title = '营养保健品系列'
+$title = '营养保健品系列-美国直邮'
 generate-html-for-products $imgsubdirs $htmlfilename $title 1
