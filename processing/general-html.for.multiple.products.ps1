@@ -129,7 +129,12 @@ function generate-html-for-products($imgsubdirs, $htmlfilename, $htmltitle, $inc
 	$stream.writeline($html)
 	$stream.close()
 
-	write-host '***dirs processed:' $iDirs
+	write-host '***dirs processed:'$iDirs
+    $link1='<li><a href="/html/'+$htmlfilename+'">'+$title+'</a></li>'
+    write-host $link1
+
+# 			<li><a href="/html/GirlThickSocks.html">小女孩加厚连裤袜3条一包</a></li>
+
 	write-host '=====ENDING=====' $outputfilename
 
 	return
